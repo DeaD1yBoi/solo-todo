@@ -1,0 +1,27 @@
+.todoItem {
+  display: flex;
+  width: 29.5%;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 15px;
+  background-image: url("https://images.squarespace-cdn.com/content/v1/5ad27341f407b47d5b9a809b/1637451499701-1Y913UZBJRS12NZS6XYM/DailyMemo_Sun_3.jpg?format=500w");
+}
+
+.todoItemText {
+  flex: 1;
+  padding: 5px;
+  border: none;
+  font-size: 24px;
+}
+
+.icon {
+  font-size: 25px;
+  cursor: pointer;
+}
+.editInput {
+  width: 100%;
+  border: none;
+  font-size: 24px;
+  border-radius: 5px;
+  outline: none;
+}
