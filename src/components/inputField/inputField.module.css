@@ -15,7 +15,7 @@
 
 .input {
   display: flex;
-  width: 90%;
+  width: 95%;
   position: relative;
   align-items: center;
 }
@@ -47,3 +47,5 @@
   transform: scale(0.9);
   box-shadow: 0 0 5px black;
 }
+
+
